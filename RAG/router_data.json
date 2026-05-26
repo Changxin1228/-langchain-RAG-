@@ -1,0 +1,397 @@
+{
+  "loaderData": {
+    "video_layout": null,
+    "video_(id)/page": {
+      "ua": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1",
+      "isSpider": false,
+      "webId": "7644028829371270708",
+      "query": {
+        "region": "CN",
+        "mid": "7518343638632434443",
+        "u_code": "12k7imm11",
+        "did": "MS4wLjABAAAAissp25tdvCy1z9aglerVrROC2iQQz43MVq2ENcWkya98fB3q0W_HXtpMo9WhOA1c",
+        "iid": "MS4wLjABAAAANwkJuWIRFOzg5uCpDRpMj4OX-QryoDgn-yYlXQnRwQQ",
+        "with_sec_did": "1",
+        "video_share_track_ver": "",
+        "titleType": "title",
+        "share_sign": "zASb2hk_M76NI0fduvr8p2mLWs8tcdANoi9318WeyYY-",
+        "share_version": "190500",
+        "ts": "1779763753",
+        "from_aid": "6383",
+        "from_ssr": "1",
+        "share_track_info": "{\"link_description_type\":\"\"}",
+        "from": "web_code_link"
+      },
+      "renderInSSR": 1,
+      "lastPath": "7518343280099118377",
+      "appName": "safari",
+      "host": "www.iesdouyin.com",
+      "isNotSupportWebp": false,
+      "commonContext": {
+        "ua": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1",
+        "isSpider": false,
+        "webId": "7644028829371270708",
+        "query": {
+          "region": "CN",
+          "mid": "7518343638632434443",
+          "u_code": "12k7imm11",
+          "did": "MS4wLjABAAAAissp25tdvCy1z9aglerVrROC2iQQz43MVq2ENcWkya98fB3q0W_HXtpMo9WhOA1c",
+          "iid": "MS4wLjABAAAANwkJuWIRFOzg5uCpDRpMj4OX-QryoDgn-yYlXQnRwQQ",
+          "with_sec_did": "1",
+          "video_share_track_ver": "",
+          "titleType": "title",
+          "share_sign": "zASb2hk_M76NI0fduvr8p2mLWs8tcdANoi9318WeyYY-",
+          "share_version": "190500",
+          "ts": "1779763753",
+          "from_aid": "6383",
+          "from_ssr": "1",
+          "share_track_info": "{\"link_description_type\":\"\"}",
+          "from": "web_code_link"
+        },
+        "renderInSSR": 1,
+        "lastPath": "7518343280099118377",
+        "appName": "safari",
+        "host": "www.iesdouyin.com",
+        "isNotSupportWebp": false
+      },
+      "isAiDouyinOpt": "",
+      "videoInfoRes": {
+        "extra": {
+          "logid": "2026052610560477C71B8CAE13035EF621",
+          "now": 1779764164805
+        },
+        "filter_list": [],
+        "is_oversea": 0,
+        "item_list": [
+          {
+            "aweme_id": "7518343280099118377",
+            "desc": "RAG 工作机制详解——一个高质量知识库背后的技术全流程 RAG 工作机制详解——一个高质量知识库背后的技术全流程 #RAG #知识库 #Embedding #AI #向量数据库",
+            "create_time": 1750500736,
+            "author": {
+              "short_id": "285130159",
+              "nickname": "马克的技术工作坊",
+              "signature": "分享技术与工具，提升生产力。\n全网同名。",
+              "avatar_thumb": {
+                "uri": "100x100/aweme-avatar/tos-cn-i-c9aec8xkvj_327cc5401a414146abab350d8998854e",
+                "url_list": [
+                  "https://p11.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-i-c9aec8xkvj_327cc5401a414146abab350d8998854e.jpeg?from=327834062",
+                  "https://p3.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-i-c9aec8xkvj_327cc5401a414146abab350d8998854e.jpeg?from=327834062",
+                  "https://p26.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-i-c9aec8xkvj_327cc5401a414146abab350d8998854e.jpeg?from=327834062"
+                ],
+                "width": 720,
+                "height": 720
+              },
+              "avatar_medium": {
+                "uri": "100x100/aweme-avatar/tos-cn-i-c9aec8xkvj_327cc5401a414146abab350d8998854e",
+                "url_list": [
+                  "https://p11.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-i-c9aec8xkvj_327cc5401a414146abab350d8998854e.jpeg?from=327834062",
+                  "https://p3.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-i-c9aec8xkvj_327cc5401a414146abab350d8998854e.jpeg?from=327834062",
+                  "https://p26.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-i-c9aec8xkvj_327cc5401a414146abab350d8998854e.jpeg?from=327834062"
+                ],
+                "width": 720,
+                "height": 720
+              },
+              "follow_status": 0,
+              "aweme_count": 30,
+              "following_count": 0,
+              "favoriting_count": 0,
+              "unique_id": "",
+              "mplatform_followers_count": 0,
+              "followers_detail": null,
+              "platform_sync_info": null,
+              "geofencing": null,
+              "policy_version": null,
+              "sec_uid": "MS4wLjABAAAAwmE-l6oONkP3R29nUSrJlE6gov-8Qq7VinKzNcUvRU0",
+              "type_label": null,
+              "card_entries": null,
+              "mix_info": null
+            },
+            "music": {
+              "mid": "7518343638632434443",
+              "title": "@马克的技术工作坊创作的原声一马克的技术工作坊",
+              "author": "马克的技术工作坊",
+              "cover_hd": {
+                "uri": "1080x1080/aweme-avatar/tos-cn-i-c9aec8xkvj_327cc5401a414146abab350d8998854e",
+                "url_list": [
+                  "https://p11.douyinpic.com/aweme/1080x1080/aweme-avatar/tos-cn-i-c9aec8xkvj_327cc5401a414146abab350d8998854e.jpeg?from=327834062",
+                  "https://p26.douyinpic.com/aweme/1080x1080/aweme-avatar/tos-cn-i-c9aec8xkvj_327cc5401a414146abab350d8998854e.jpeg?from=327834062",
+                  "https://p3.douyinpic.com/aweme/1080x1080/aweme-avatar/tos-cn-i-c9aec8xkvj_327cc5401a414146abab350d8998854e.jpeg?from=327834062"
+                ],
+                "width": 720,
+                "height": 720
+              },
+              "cover_large": {
+                "uri": "1080x1080/aweme-avatar/tos-cn-i-c9aec8xkvj_327cc5401a414146abab350d8998854e",
+                "url_list": [
+                  "https://p11.douyinpic.com/aweme/1080x1080/aweme-avatar/tos-cn-i-c9aec8xkvj_327cc5401a414146abab350d8998854e.jpeg?from=327834062",
+                  "https://p26.douyinpic.com/aweme/1080x1080/aweme-avatar/tos-cn-i-c9aec8xkvj_327cc5401a414146abab350d8998854e.jpeg?from=327834062",
+                  "https://p3.douyinpic.com/aweme/1080x1080/aweme-avatar/tos-cn-i-c9aec8xkvj_327cc5401a414146abab350d8998854e.jpeg?from=327834062"
+                ],
+                "width": 720,
+                "height": 720
+              },
+              "cover_medium": {
+                "uri": "720x720/aweme-avatar/tos-cn-i-c9aec8xkvj_327cc5401a414146abab350d8998854e",
+                "url_list": [
+                  "https://p11.douyinpic.com/aweme/720x720/aweme-avatar/tos-cn-i-c9aec8xkvj_327cc5401a414146abab350d8998854e.jpeg?from=327834062",
+                  "https://p3.douyinpic.com/aweme/720x720/aweme-avatar/tos-cn-i-c9aec8xkvj_327cc5401a414146abab350d8998854e.jpeg?from=327834062",
+                  "https://p26.douyinpic.com/aweme/720x720/aweme-avatar/tos-cn-i-c9aec8xkvj_327cc5401a414146abab350d8998854e.jpeg?from=327834062"
+                ],
+                "width": 720,
+                "height": 720
+              },
+              "cover_thumb": {
+                "uri": "168x168/aweme-avatar/tos-cn-i-c9aec8xkvj_327cc5401a414146abab350d8998854e",
+                "url_list": [
+                  "https://p11.douyinpic.com/img/aweme-avatar/tos-cn-i-c9aec8xkvj_327cc5401a414146abab350d8998854e~c5_168x168.jpeg?from=327834062",
+                  "https://p3.douyinpic.com/img/aweme-avatar/tos-cn-i-c9aec8xkvj_327cc5401a414146abab350d8998854e~c5_168x168.jpeg?from=327834062",
+                  "https://p26.douyinpic.com/img/aweme-avatar/tos-cn-i-c9aec8xkvj_327cc5401a414146abab350d8998854e~c5_168x168.jpeg?from=327834062"
+                ],
+                "width": 720,
+                "height": 720
+              },
+              "duration": 1021,
+              "position": null,
+              "status": 1
+            },
+            "cha_list": null,
+            "video": {
+              "play_addr": {
+                "uri": "v0200fg10000d1b6a2fog65skl62leig",
+                "url_list": [
+                  "https://aweme.snssdk.com/aweme/v1/playwm/?line=0&logo_name=aweme_diversion_search&ratio=720p&video_id=v0200fg10000d1b6a2fog65skl62leig"
+                ]
+              },
+              "cover": {
+                "uri": "tos-cn-i-dy/eeeb4dc8637b4b4e995187eddaa00470",
+                "url_list": [
+                  "https://p9-sign.douyinpic.com/tos-cn-i-dy/eeeb4dc8637b4b4e995187eddaa00470~tplv-dy-resize-walign-adapt-aq:540:q75.webp?lk3s=138a59ce&x-expires=1780970400&x-signature=Tps0CO9zQqDKbNQCkYzFBT8H%2BCM%3D&from=327834062&s=PackSourceEnum_DOUYIN_REFLOW&se=false&sc=cover&biz_tag=aweme_video&l=2026052610560477C71B8CAE13035EF621",
+                  "https://p26-sign.douyinpic.com/tos-cn-i-dy/eeeb4dc8637b4b4e995187eddaa00470~tplv-dy-resize-walign-adapt-aq:540:q75.webp?lk3s=138a59ce&x-expires=1780970400&x-signature=D8E2%2B7zoN%2FeTxnvhysAVeC%2BzLag%3D&from=327834062&s=PackSourceEnum_DOUYIN_REFLOW&se=false&sc=cover&biz_tag=aweme_video&l=2026052610560477C71B8CAE13035EF621",
+                  "https://p5-ex-gddgtc-sign.douyinpic.com/tos-cn-i-dy/eeeb4dc8637b4b4e995187eddaa00470~tplv-dy-resize-walign-adapt-aq:540:q75.webp?lk3s=138a59ce&x-expires=1780970400&x-signature=rjZuuZ%2F%2FTd0%2BKu%2Bjrj0LXEqLBlc%3D&from=327834062&s=PackSourceEnum_DOUYIN_REFLOW&se=false&sc=cover&biz_tag=aweme_video&l=2026052610560477C71B8CAE13035EF621",
+                  "https://p9-sign.douyinpic.com/tos-cn-i-dy/eeeb4dc8637b4b4e995187eddaa00470~tplv-dy-resize-walign-adapt-aq:540:q75.jpeg?lk3s=138a59ce&x-expires=1780970400&x-signature=T%2Fdla04zsgfHDDDRVm%2BWh0YLbSo%3D&from=327834062&s=PackSourceEnum_DOUYIN_REFLOW&se=false&sc=cover&biz_tag=aweme_video&l=2026052610560477C71B8CAE13035EF621"
+                ],
+                "width": 540,
+                "height": 720
+              },
+              "height": 2160,
+              "width": 3840,
+              "bit_rate": null,
+              "duration": 1021270,
+              "big_thumbs": null
+            },
+            "statistics": {
+              "aweme_id": "7518343280099118377",
+              "comment_count": 247,
+              "digg_count": 12359,
+              "play_count": 0,
+              "share_count": 2165,
+              "collect_count": 10244
+            },
+            "text_extra": [
+              {
+                "start": 58,
+                "end": 62,
+                "type": 1,
+                "hashtag_name": "RAG",
+                "hashtag_id": 1611641655819278
+              },
+              {
+                "start": 63,
+                "end": 67,
+                "type": 1,
+                "hashtag_name": "知识库",
+                "hashtag_id": 1625763499896843
+              },
+              {
+                "start": 68,
+                "end": 78,
+                "type": 1,
+                "hashtag_name": "Embedding",
+                "hashtag_id": 1732723307125771
+              },
+              {
+                "start": 79,
+                "end": 82,
+                "type": 1,
+                "hashtag_name": "AI",
+                "hashtag_id": 1582049556616206
+              },
+              {
+                "start": 83,
+                "end": 89,
+                "type": 1,
+                "hashtag_name": "向量数据库",
+                "hashtag_id": 1740921010181133
+              }
+            ],
+            "video_labels": null,
+            "aweme_type": 4,
+            "image_infos": null,
+            "risk_infos": {
+              "warn": false,
+              "type": 0,
+              "content": "",
+              "reflow_unplayable": 0
+            },
+            "comment_list": null,
+            "geofencing": null,
+            "video_text": null,
+            "label_top_text": null,
+            "promotions": null,
+            "long_video": null,
+            "mix_info": {
+              "mix_id": "7523978669779093545",
+              "mix_name": "如何构建一个RAG系统",
+              "cover_url": {
+                "uri": "tos-cn-i-dy/fea40b8ce11f46879d7a17eb925231c5",
+                "url_list": [
+                  "https://p3-sign.douyinpic.com/obj/tos-cn-i-dy/fea40b8ce11f46879d7a17eb925231c5?lk3s=138a59ce&x-expires=1779782400&x-signature=PJtro%2BWQIEePWnoasvWPhmoQKcI%3D&from=327834062&s=PackSourceEnum_DOUYIN_REFLOW&se=false&sc=mix_cover&biz_tag=aweme_mix&l=2026052610560477C71B8CAE13035EF621",
+                  "https://p26-sign.douyinpic.com/obj/tos-cn-i-dy/fea40b8ce11f46879d7a17eb925231c5?lk3s=138a59ce&x-expires=1779782400&x-signature=Z8fpA%2FVg65Lb%2BSWrjKg8Otzn1SY%3D&from=327834062&s=PackSourceEnum_DOUYIN_REFLOW&se=false&sc=mix_cover&biz_tag=aweme_mix&l=2026052610560477C71B8CAE13035EF621",
+                  "https://p5-ex-gddgtc-sign.douyinpic.com/obj/tos-cn-i-dy/fea40b8ce11f46879d7a17eb925231c5?lk3s=138a59ce&x-expires=1779782400&x-signature=Hfazt5Qx7KZ75JYwCibSGurnfwY%3D&from=327834062&s=PackSourceEnum_DOUYIN_REFLOW&se=false&sc=mix_cover&biz_tag=aweme_mix&l=2026052610560477C71B8CAE13035EF621"
+                ],
+                "width": 720,
+                "height": 720
+              },
+              "status": {
+                "status": 2,
+                "is_collected": 0
+              },
+              "statis": {
+                "play_vv": 0,
+                "collect_vv": 0,
+                "current_episode": 1,
+                "updated_to_episode": 2
+              },
+              "desc": "",
+              "extra": "{\"create_source\":0,\"first_reviewed\":1,\"is_author_set_self_see\":0,\"last_added_item_time\":1751812796,\"mix_ad_info\":{\"copy_right_item_count\":2,\"music_physical_game_count\":0,\"risk_copy_right_item_count\":0},\"next_info\":{\"cover\":\"tos-cn-i-dy/fea40b8ce11f46879d7a17eb925231c5\",\"desc\":\"\",\"name\":\"如何构建一个RAG系统\"},\"segmentation\":\"如何 构建 一个 RAG 系统\",\"top_item_content_label\":{\"2011\":2},\"total_duration\":2071}",
+              "create_time": 1751812796,
+              "next_info": {
+                "mix_name": "如何构建一个RAG系统",
+                "desc": "",
+                "cover_url": {
+                  "uri": "tos-cn-i-dy/fea40b8ce11f46879d7a17eb925231c5",
+                  "url_list": [
+                    "https://p11-sign.douyinpic.com/obj/tos-cn-i-dy/fea40b8ce11f46879d7a17eb925231c5?lk3s=2aa63f9f&x-expires=1779782400&x-signature=aLWpk3xdb8bqAKcxEHG7T3wypNo%3D&from=715538335",
+                    "https://p26-sign.douyinpic.com/obj/tos-cn-i-dy/fea40b8ce11f46879d7a17eb925231c5?lk3s=2aa63f9f&x-expires=1779782400&x-signature=Z8fpA%2FVg65Lb%2BSWrjKg8Otzn1SY%3D&from=715538335",
+                    "https://p3-sign.douyinpic.com/obj/tos-cn-i-dy/fea40b8ce11f46879d7a17eb925231c5?lk3s=2aa63f9f&x-expires=1779782400&x-signature=PJtro%2BWQIEePWnoasvWPhmoQKcI%3D&from=715538335"
+                  ]
+                }
+              },
+              "charge_episodes": null,
+              "deleted_index": null,
+              "charge_skus": null
+            },
+            "images": null,
+            "group_id_str": "7518343280099118377",
+            "chapter_list": null,
+            "interaction_stickers": null,
+            "img_bitrate": null,
+            "chapter_bar_color": null,
+            "common_labels": [
+              {
+                "business_id": "select_recommend",
+                "priority": 9419,
+                "type": 0,
+                "static_label": {
+                  "style": {
+                    "container_number": 1,
+                    "padding": null
+                  },
+                  "containers": [
+                    {
+                      "id": "main_frame_label",
+                      "template": 1,
+                      "style": {
+                        "color": "#FFFFFF",
+                        "transparency": 100,
+                        "border_radius": 4,
+                        "padding": [
+                          4,
+                          3,
+                          4
+                        ],
+                        "height": 20
+                      },
+                      "elements": [
+                        {
+                          "type": 2,
+                          "multi_images": {
+                            "images": [
+                              {
+                                "image": {
+                                  "uri": "aweme-client-static-resource/douyin_select_m_station_test000.png",
+                                  "url_list": [
+                                    "https://p3-sign.douyinpic.com/obj/aweme-client-static-resource/douyin_select_m_station_test000.png?lk3s=138a59ce&x-expires=1780970400&x-signature=Wsz0Esdem6JBVBCZAjeIMAFwA7I%3D&from=327834062",
+                                    "https://p5-ex-gddgtc-sign.douyinpic.com/obj/aweme-client-static-resource/douyin_select_m_station_test000.png?lk3s=138a59ce&x-expires=1780970400&x-signature=mbi%2FkdsGmNl6lOP8sGHagBa81G8%3D&from=327834062",
+                                    "https://p11-sign.douyinpic.com/obj/aweme-client-static-resource/douyin_select_m_station_test000.png?lk3s=138a59ce&x-expires=1780970400&x-signature=Y9C0ADaL4a7WYYylSjXT2r3E8YM%3D&from=327834062"
+                                  ]
+                                },
+                                "style": {
+                                  "shape": 0,
+                                  "size": 12,
+                                  "color": "#FFFFFF"
+                                }
+                              }
+                            ],
+                            "style": {
+                              "layout": 0,
+                              "padding": null
+                            }
+                          },
+                          "data_ref": "default_data"
+                        },
+                        {
+                          "type": 0,
+                          "text": {
+                            "content": "来自抖音精选",
+                            "style": {
+                              "size": 12,
+                              "bold": true,
+                              "omit_strategy": 0,
+                              "max_character": 6,
+                              "font_color": "#161823"
+                            }
+                          }
+                        }
+                      ],
+                      "schema": "snssdk568863://aweme/push_detail?hot=detail&cold=detail&gids=7518343280099118377&web_id=7644028829371270708"
+                    }
+                  ],
+                  "actions": null,
+                  "tracking_info": ""
+                }
+              }
+            ]
+          }
+        ],
+        "status_code": 0
+      },
+      "itemId": "7518343280099118377",
+      "isVideoOptimize": false,
+      "openDirectGroup": "4",
+      "isVideoStyleOptimize": true,
+      "isButtonOptimize": true,
+      "isAutoOpenApp": false,
+      "darkModeAdaptation": false,
+      "serverToken": "",
+      "abParams": {
+        "reflow_video_page_optimize": "2",
+        "search_video_mark_abtest": "0",
+        "share_page_dark_mode_adaptation": "1",
+        "reflow_page_open_app_optimize": "4",
+        "reflow_page_auto_open_optimize": "1",
+        "reflow_to_featured_app": "1",
+        "select_pool_data": {
+          "use_new_select_scope": 0
+        },
+        "jx_label_display_position_list": [
+          "main",
+          "related_card"
+        ],
+        "reflow_page_615883_optimaze": false,
+        "show_rec_group_list": "0"
+      }
+    }
+  },
+  "errors": null
+}
